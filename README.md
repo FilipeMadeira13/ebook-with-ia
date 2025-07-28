@@ -3,7 +3,7 @@
 [![Versão do Ebook](https://img.shields.io/badge/VERSÃO-1.0-blue)](#)
 [![Licença](https://img.shields.io/badge/LICENÇA-CC_BY--NC--ND_4.0-lightgrey)](#licença)
 
-![Capa](./images/capa-ebook.png)
+<img src="./images/capa-ebook.png" alt="Capa do Projeto" width="300" height="350"/>
 
 ## 📚 Sobre o Projeto
 
